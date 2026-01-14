@@ -10,8 +10,6 @@ The transition from Industry 3.0 to Industry 4.0 is defined by a topological sta
 
 $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
-![The Geometric Inversion Model](equation_visual.png)
-
 **Where:**
 * **$O$**: Organizational Complexity
 * **$N$**: Number of Operational Elements
