@@ -13,7 +13,7 @@
 
 ---
 
-## 2. The General Equation (The Vesa Transformation)
+## 2. The General Equation (The Geometric Transformation Model)
 
 The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change where the exponent is relocated from constraint to capacity:
 
@@ -31,7 +31,7 @@ In a standard sequential architecture (Point-to-Point / ISA-95 Legacy), every ne
 * **Mechanism:** The "weight" of the system grows faster than its capability.
 * **Result:** **Structural Incoherence.** The organization is eventually crushed by its own scale. You cannot debug sequential architecture into geometric behavior.
 
-### Axiom II: The Solution (Geometric Substrate)
+### Axiom II: The Solution (The Geometric Catalyst)
 **governed by Meadows' Leverage Points (1999):** *"The highest leverage is changing system structure."*
 
 The Unified Namespace is a structural intervention (Leverage Point #2). It establishes a coordinate system that breaks sequential dependencies while preserving manufacturing standards.
