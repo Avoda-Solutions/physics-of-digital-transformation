@@ -57,4 +57,4 @@ The exponential cannot be destroyed. It is a property of the network (Metcalfe's
 2.  **Industry 4.0 (Capacity):** The exponent acts as **Scalability** ($I4^2$).
 
 **Conclusion:**
-The result of your digital transformation is already determined by your topology.
+The result of your digital transformation is determined by your topology.
