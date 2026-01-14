@@ -3,7 +3,8 @@
 **Author:** Tuukka Vesa, Avoda Solutions OÜ
 **License:** CC-BY-ND 4.0 (Attribution-NoDerivatives)
 **Status:** Canonical Definition (v1.0)
-**DOI:** [Pending Zenodo Link]
+**DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
+
 
 ## The General Equation
 The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
